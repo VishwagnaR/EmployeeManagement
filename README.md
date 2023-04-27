@@ -28,9 +28,7 @@ These instructions will get you a copy of the project up and running on your Ecl
 ### Prerequisites
 What things you need to install the software and how to install them.
 
-
-First need to download visual studio code, it is like editor where you can write your codes like html,css, and javascript etc..
-
+First need to download Eclipse, it is like IDE where you can write your codes
 
 ### Installing
 A step by step series of examples
