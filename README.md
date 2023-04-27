@@ -27,21 +27,24 @@ These instructions will get you a copy of the project up and running on your Ecl
 
 ### Prerequisites
 What things you need to install the software and how to install them.
-
+```
 First need to download Eclipse, it is like IDE where you can write your codes
+```
 
 ### Installing
 A step by step series of examples
 
+```
 Step 1: Download Visual Studio code.
 Step 2: Download the installer according to your operating system. Suppose if your OS is windows, download windows otherwise download accoring to operating system.
 Step 3: Install vscode. This step is easy, accept the agreement and click next.
-
+```
 
 And repeat
 
-
+```
 until finished
+```
 
 <p align="center">
   <a href="" rel="">
