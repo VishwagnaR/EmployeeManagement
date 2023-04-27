@@ -54,14 +54,13 @@ until finished
 </p>
   
 ## 🎈 Usage <a name="usage"></a>
-Using smartphone, Tablets, and Notebooks for accessing internet has become a common fashion or
-trend. A popularity had been seen among the users for responsive sites as it serves the following advantages <br>
-• A responsive website is flexible to use <br>
-• It automatically shuffles content, realize images, and adjusts font size <br>
-• User are able to read information as per their needs and preferences <br>
-• Helps encountering fast and intelligent sites <br>
-• Saves user time while browsing the site <br>
-• Helps increasing the user experience <br>
+Provide computerized system for maintaining records <br>
+⦁	More efficient & reliable <br>
+⦁	Less time consuming and easy to use <br>
+⦁	Huge data storage with less computer memory <br>
+⦁	Avoid human errors & efforts for maintaining daily data <br>
+⦁	Avoid data manipulations <br>
+⦁	Also avoids data inconsistency & redundancy. <br>
 
 ## 🚀 Deployment <a name = "deployment"></a>
 ## How To deploy your websites in Github
