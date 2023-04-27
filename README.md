@@ -20,13 +20,7 @@ Employee Management System is to allow the administrator of any organization to 
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Responsive Website can be viewed using many different devices:
-Desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
-1. Responsive Web Site (RWS) is a process of designing a single website to be used and compatible on different
-portable or handle electronic devices
-2. It regarded as an integrated approach of designing through which compelling and easy to use website are build,
-to give an optimal viewing user experience across a wide variety of device starting from desktop computers to
-mobile phones.
+A User-Friendly Employee Management System An employee management system can streamline and automate a company’s human resources tasks. It, thus, eliminates the need to manually and tediously go through the employee management process, which helps save a lot of time and energy.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your Eclipse. See [deployment](#deployment) for notes on how to deploy the project on a live system.
