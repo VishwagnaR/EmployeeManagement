@@ -35,9 +35,10 @@ First need to download Eclipse, it is like IDE where you can write your codes
 A step by step series of examples
 
 ```
-Step 1: Download Visual Studio code.
-Step 2: Download the installer according to your operating system. Suppose if your OS is windows, download windows otherwise download accoring to operating system.
-Step 3: Install vscode. This step is easy, accept the agreement and click next.
+Step 1: In the first step, Open your browser and navigate to this URL.
+Step 2: Then, click on the “Download” button to download Eclipse IDE.
+Step 3: Now, click on the “Download x86_64” button.
+Step 4: Then click on the “Download” button. After clicking on the download button the .exe file for the eclipse will be downloaded.
 ```
 
 And repeat
