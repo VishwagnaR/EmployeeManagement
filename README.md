@@ -5,15 +5,10 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">EmployeeMangement</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
-
-
+<h3 align="center">EmployeeMangement</h3>
+Employee Management System is to allow the administrator of any organization to edit and find out the personal details of an employee and allows the employee to keep up to date with his profile. It’ll also facilitate keeping all the records of employees, such as their personal details, id, name, mailing address, phone number, DOB, work exp etc...
 
 ---
-
-<p align="center">
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 - [About](#about)
