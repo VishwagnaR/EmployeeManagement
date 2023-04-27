@@ -34,7 +34,7 @@ to give an optimal viewing user experience across a wide variety of device start
 mobile phones.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your web browser. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your Eclipse. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 What things you need to install the software and how to install them.
@@ -128,10 +128,10 @@ Step 6: Final Deployment
 ## Bhupendra Parihar
 - References <br>
 
-1)"The Next Web" (https://thenextweb.com/) - This website is a great example of a responsive design that looks great on desktop and mobile devices alike. <br>
-
-2)"Treehouse" (https://teamtreehouse.com/) - Treehouse is a platform for learning web development and design, and their website is a great example of a responsive design that uses a clean and modern layout. <br>
-
-3)"Boston Globe" (https://www.bostonglobe.com/) - The Boston Globe is a newspaper website that has a responsive design that is optimized for news consumption on all devices. <br>
-
-4)"CSS Tricks" (https://css-tricks.com/) - CSS Tricks is a website dedicated to helping web designers and developers with tips and tricks for working with CSS. Their website is a great example of a responsive design that is easy to navigate and looks great on all devices. <br>
+1) Centralized Employee Information, Retrieved
+https://www.zoho.com/people/employee-management-system.html <br>
+2)Employee Management Software, Retrieved: July 8th, 2014.
+http://www.getapp.com/hr-employee-management-software
+Ian Sommerville, “Software Engineering”, 9th Edition, Addision-Wesley, 2011. <br>
+3)Juan Manuel Munoz palacio, Information systems development
+methodologies for Data-driven Decision Support Systems, 2010
