@@ -20,7 +20,7 @@ Employee Management System is to allow the administrator of any organization to 
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-A User-Friendly Employee Management System An employee management system can streamline and automate a company’s human resources tasks. It, thus, eliminates the need to manually and tediously go through the employee management process, which helps save a lot of time and energy.
+A User-Friendly Employee Management System can streamline and automate a company’s human resources tasks. It, thus, eliminates the need to manually and tediously go through the employee management process, which helps save a lot of time and energy.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your Eclipse. See [deployment](#deployment) for notes on how to deploy the project on a live system.
