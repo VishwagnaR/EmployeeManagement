@@ -110,7 +110,7 @@ Step 6: Final Deployment
 - [MySql](https://dev.mysql.com/downloads/installer/) - Database
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@Ethan Marcotte](https://ethanmarcotte.com/)
+- [@peter drucker](https://tse3.mm.bing.net/th?id=OIP.sXc4JxhI-aGTOuV2DuV96wHaFF&pid=Api&P=0)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration 
