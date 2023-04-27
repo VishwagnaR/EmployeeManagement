@@ -128,10 +128,14 @@ Step 6: Final Deployment
 ## Bhupendra Parihar
 - References <br>
 
-1) Centralized Employee Information, Retrieved
+1) Centralized Employee Information, Retrieved <br>
+  
 https://www.zoho.com/people/employee-management-system.html <br>
-2)Employee Management Software, Retrieved: July 8th, 2014.
-http://www.getapp.com/hr-employee-management-software
-Ian Sommerville, “Software Engineering”, 9th Edition, Addision-Wesley, 2011. <br>
-3)Juan Manuel Munoz palacio, Information systems development
-methodologies for Data-driven Decision Support Systems, 2010
+  
+2)Employee Management Software, Retrieved: July 8th, 2014. <br>
+  
+http://www.getapp.com/hr-employee-management-software <br>
+  
+3) Ian Sommerville, “Software Engineering”, 9th Edition, Addision-Wesley, 2011. <br>
+  
+4)Juan Manuel Munoz palacio, Information systems development methodologies for Data-driven Decision Support Systems, 2010
