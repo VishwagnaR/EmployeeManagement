@@ -107,8 +107,8 @@ Step 6: Final Deployment
 </p>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [Visual Studio Code](code.visualstudio.com) - Editor
-- [Chrome](https://www.google.com/) - Browser
+- [Eclipse](https://www.eclipse.org/downloads/) - IDE
+- [MySql](https://dev.mysql.com/downloads/installer/) - Database
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@Ethan Marcotte](https://ethanmarcotte.com/)
